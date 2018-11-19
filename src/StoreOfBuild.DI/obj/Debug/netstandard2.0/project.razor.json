@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Projects\\CursoDotNetCore\\Modulo7\\src\\StoreOfBuild.DI\\StoreOfBuild.DI.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

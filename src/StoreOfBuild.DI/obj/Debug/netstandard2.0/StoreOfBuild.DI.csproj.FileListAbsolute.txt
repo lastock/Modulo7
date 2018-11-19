@@ -1,0 +1,14 @@
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.DI\bin\Debug\netstandard2.0\StoreOfBuild.DI.deps.json
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.DI\bin\Debug\netstandard2.0\StoreOfBuild.DI.dll
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.DI\bin\Debug\netstandard2.0\StoreOfBuild.DI.pdb
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.DI\obj\Debug\netstandard2.0\StoreOfBuild.DI.csprojAssemblyReference.cache
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.DI\obj\Debug\netstandard2.0\StoreOfBuild.DI.csproj.CoreCompileInputs.cache
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.DI\obj\Debug\netstandard2.0\StoreOfBuild.DI.AssemblyInfoInputs.cache
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.DI\obj\Debug\netstandard2.0\StoreOfBuild.DI.AssemblyInfo.cs
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.DI\obj\Debug\netstandard2.0\StoreOfBuild.DI.dll
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.DI\obj\Debug\netstandard2.0\StoreOfBuild.DI.pdb
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.DI\bin\Debug\netstandard2.0\StoreOfBuild.Data.dll
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.DI\bin\Debug\netstandard2.0\StoreOfBuild.Domain.dll
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.DI\bin\Debug\netstandard2.0\StoreOfBuild.Data.pdb
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.DI\bin\Debug\netstandard2.0\StoreOfBuild.Domain.pdb
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.DI\obj\Debug\netstandard2.0\StoreOfBuild.DI.csproj.CopyComplete

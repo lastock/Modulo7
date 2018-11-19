@@ -1,0 +1,9 @@
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.Domain\bin\Debug\netstandard2.0\StoreOfBuild.Domain.deps.json
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.Domain\bin\Debug\netstandard2.0\StoreOfBuild.Domain.dll
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.Domain\bin\Debug\netstandard2.0\StoreOfBuild.Domain.pdb
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.csprojAssemblyReference.cache
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.AssemblyInfoInputs.cache
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.AssemblyInfo.cs
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.dll
+C:\Projects\CursoDotNetCore\Modulo7\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.pdb
